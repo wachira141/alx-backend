@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 '''
-create a BasicCache class and inherit 
+create a BasicCache class and inherit
 from BaseCaching
 '''
 from base_model import BaseCaching

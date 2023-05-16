@@ -6,6 +6,7 @@ system
 from base_model import BaseCaching
 from collections import OrderedDict
 
+
 class FIFOCache(BaseCaching):
     '''FIFOCache class
     '''
