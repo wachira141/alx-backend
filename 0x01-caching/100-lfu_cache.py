@@ -3,7 +3,7 @@
 """
 from collections import OrderedDict
 
-from base_model import BaseCaching
+from base_caching import BaseCaching
 
 
 class LFUCache(BaseCaching):

@@ -3,7 +3,7 @@
 create a BasicCache class and inherit
 from BaseCaching
 '''
-from base_model import BaseCaching
+from base_caching import BaseCaching
 
 
 class BasicCache(BaseCaching):

@@ -3,7 +3,7 @@
 FIFOCache class to implement a Fifo like caching
 system
 '''
-from base_model import BaseCaching
+from base_caching import BaseCaching
 from collections import OrderedDict
 
 
